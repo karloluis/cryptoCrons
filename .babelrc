@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "transform-strict-mode",
+    "transform-async-to-generator",
+    "transform-es2015-destructuring",
+    "transform-object-rest-spread",
+    "transform-class-properties",
+    "transform-member-expression-literals"
+  ],
+  "presets": ["node6"],
+  "sourceMaps": "both"
+}
